@@ -1,21 +1,21 @@
-<h1>Criação de Site em Nuvem</h1> <br/>
+<h1>Projeto e Modelagem de Sistemas de Software</h1> <br/>
 <h1>Dados da Turma</h1> <br/>
 
-- Dia da semana: Quinta Feira <br/>
+- Dia da semana: Quarta <br/>
 - Período: Noturno <br/>
 
 <h1>Integrantes</h1>
 
-| RA                  |  NOME COMPLETO                      | CURSO    |  TURMA
-| ------------------- | ------------------------------------| ---------|---------
-|  3021103570         |  Breno Mendes Moura                 |TADS      | 1A
-|  3021101425         |  Kevin Souza alves da silva         |TADS      | 1A
-|  3021103830         |  Victor França de Souza             |TADS      | 1A
-|  3021100282         |  Victor de souza bernardo           |TADS      | 1A
-|  3021104031         |  Cesar Augusto Martins Vallim       |TADS      | 1A
-|  3021104519         |  Alberto Henrique Neves de Almeida  |TADS      | 1A
-|  3010213269         |  Elias Yuri Yohsy Miyashiro         |TADS      | 1A
-|  3021100805         |  Richard de Almeida Roberto         |TADS      | 1A
+| RA                  |  NOME COMPLETO                      | CURSO    
+| ------------------- | ------------------------------------| ---------
+|  3021103570         |  Breno Mendes Moura                 | TADS      
+|  3021101425         |  Kevin Souza alves da silva         | TADS      
+|  3021103830         |  Victor França de Souza             | TADS      
+|  3021100282         |  Victor de souza bernardo           | TADS      
+|  3021104031         |  Cesar Augusto Martins Vallim       | TADS      
+|  3021104519         |  Alberto Henrique Neves de Almeida  | TADS      
+|  3010213269         |  Elias Yuri Yohsy Miyashiro         | TADS      
+|  3021100805         |  Richard de Almeida Roberto         | TADS      
 <br/>
 
 <h1>Descrição do Projeto</h1>
