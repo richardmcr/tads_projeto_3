@@ -71,8 +71,8 @@ class AdminController extends Controller
                             'released_at' => array_key_exists('first_release_date', $game_value->attributes)
                                 ? $game_value->attributes['first_release_date']->toDateTimeString()
                                 : null,
-                            'image' => array_key_exists('cover', $game_value->relations->toArray())
-                                ? 'https://images.igdb.com/igdb/image/upload/t_cover_big/' . $game_value->relations['cover']->attributes['image_id'] . '.jpg'
+                            'image' => array_key_exists('cover', $game_value->attributes)
+                                ? 'https://images.igdb.com/igdb/image/upload/t_cover_big/' . $game_value->attributes['cover']['image_id'] . '.jpg'
                                 : null,
                             'description' => array_key_exists('summary', $game_value->attributes)
                                 ? $game_value->attributes['summary']
@@ -88,8 +88,8 @@ class AdminController extends Controller
                             $game->plataformas()->attach($game_value->attributes['platforms']);
                         }
 
-                        if (array_key_exists('screenshots', $game_value->relations->toArray())) {
-                            foreach ($game_value->relations->toArray()['screenshots'] as $screenshot => $screnshot_value) {
+                        if (array_key_exists('screenshots', $game_value->attributes)) {
+                            foreach ($game_value->attributes['screenshots'] as $screenshot => $screnshot_value) {
                                 Screenshot::create([
                                     'game_id' => $game->id,
                                     'url' => 'https://images.igdb.com/igdb/image/upload/t_original/' . $screnshot_value['image_id'] . '.jpg',
