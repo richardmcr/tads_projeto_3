@@ -12,7 +12,7 @@
 |  3021103830         |  Victor França de Souza             | TADS      
 |  3021100282         |  Victor de souza bernardo           | TADS      
 |  3021104031         |  Cesar Augusto Martins Vallim       | TADS      
-|  3010213269         |  Elias Yuri Yoshy Miyashiro         | TADS      
+|  3021103269         |  Elias Yuri Yoshy Miyashiro         | TADS      
 |  3021100805         |  Richard de Almeida Roberto         | TADS      
 <br/>
 
