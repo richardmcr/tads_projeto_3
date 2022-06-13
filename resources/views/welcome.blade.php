@@ -85,7 +85,7 @@
             <h1 class="cover-heading">GamingScore</h1>
             <p class="lead">Levando em consideração todo o cenário virtual nos dias atuais, temos que escolher uma solução adequada e facilitadora para a escolha do seu futuro jogo.</p>
             <p class="lead">
-              <a href="https://github.com/richardmcr/tads_projeto_1#readme" class="btn btn-lg btn-secondary">Saiba mais</a>
+              <a href="https://github.com/richardmcr/tads_projeto_3#readme" class="btn btn-lg btn-secondary">Saiba mais</a>
             </p>
           </div>
 
@@ -216,7 +216,7 @@
 
       <footer class="text-center mastfoot mt-auto">
         <div class="inner">
-          <p>Projeto Prático de Programação, 2021</a>.</p>
+          <p>PROJETO E MODELAGEM DE SISTEMAS DE SOFTWARE, 2022</a>.</p>
         </div>
       </footer>
     </div>
